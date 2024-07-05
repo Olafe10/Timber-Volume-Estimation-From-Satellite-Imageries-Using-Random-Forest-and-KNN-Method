@@ -1,4 +1,4 @@
-# Timber-Volume-Estimation-Using-Satellite-Imageries
+# Timber-Volume-Estimation-From-Satellite-Imageries-Using-Random-Forest-and-KNN-Method
 ## Extracting Sentinel-2 for the Plot
 ##  Extracting PALSAR-2 for the Plot
 ## Merging extracted data from Sentinel-2 and PALSAR-2
